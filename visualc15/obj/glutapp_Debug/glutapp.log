@@ -1,0 +1,17 @@
+﻿  App.cpp
+c:\users\alan\downloads\opengl stuff\tictactoe2\graphics.h(40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\downloads\opengl stuff\tictactoe2\graphics.h(55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\downloads\opengl stuff\tictactoe2\graphics.h(78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\downloads\opengl stuff\tictactoe2\graphics.h(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(30): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(31): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(32): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(33): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(34): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(35): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(36): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\tictactoe2\app.cpp(37): warning C4305: '=': truncation from 'double' to 'float'
+  glutapp.vcxproj -> C:\Users\Alan\Downloads\OpenGL stuff\tictactoe2\visualc15\obj\glutapp_Debug\glutapp.exe
+  glutapp.vcxproj -> obj\glutapp_Debug\glutapp.pdb (Full PDB)

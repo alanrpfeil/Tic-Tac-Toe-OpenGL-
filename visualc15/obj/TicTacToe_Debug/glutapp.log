@@ -1,0 +1,32 @@
+﻿  TicTacToe.cpp
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(7): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(25): error C2059: syntax error: ')'
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(26): error C2059: syntax error: ')'
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(27): error C2059: syntax error: ')'
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(28): error C2059: syntax error: ')'
+c:\users\alan\downloads\opengl stuff\opengltemplate\graphics.h(29): error C2059: syntax error: ')'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(16): error C2374: 'width': redefinition; multiple initialization
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(16): note: see declaration of 'width'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(16): error C2374: 'height': redefinition; multiple initialization
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(16): note: see declaration of 'height'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(21): error C2084: function 'void appDrawScene(void)' already has a body
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(21): note: see previous definition of 'appDrawScene'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(48): error C2084: function 'void windowToScene(float &,float &)' already has a body
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(48): note: see previous definition of 'windowToScene'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(61): error C2084: function 'void appReshapeFunc(int,int)' already has a body
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(61): note: see previous definition of 'appReshapeFunc'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(116): error C2084: function 'void appMouseFunc(int,int,int,int)' already has a body
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(116): note: see previous definition of 'appMouseFunc'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(134): error C2084: function 'void appMotionFunc(int,int)' already has a body
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(134): note: see previous definition of 'appMotionFunc'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(147): error C2084: function 'void appKeyboardFunc(unsigned char,int,int)' already has a body
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(147): note: see previous definition of 'appKeyboardFunc'
+c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(155): error C2084: function 'int main(int,char **)' already has a body
+  c:\users\alan\downloads\opengl stuff\opengltemplate\tictactoe.cpp(155): note: see previous definition of 'main'
